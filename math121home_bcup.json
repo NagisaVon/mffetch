@@ -1,0 +1,20 @@
+{
+	"title": "math121",
+	"href": "https://dbenedetto.people.amherst.edu/math121/",
+	"dir": "math121",
+	"sections": ["handouts", "homeworks", "quizzes"], 
+	"handouts": {
+		"href":"https://dbenedetto.people.amherst.edu/math121",
+		"dir":"handouts",
+		"file":[]},
+	"homeworks": {
+		"href":"https://dbenedetto.people.amherst.edu/math121/math121homework.html",
+		"dir":"homework",
+		"file":[] },
+	"quizzes": {
+		"href":"https://dbenedetto.people.amherst.edu/math121/math121quizzes.html",
+		"dir":"quizzes",
+		"file":[] }
+}
+
+

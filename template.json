@@ -1,0 +1,20 @@
+{
+	"title": "template",
+	"href": "https://xxxx/",
+	"dir": "temp",
+	"sections": ["sec-01", "sec-02", "sec-03"], 
+	"sec-01": {
+		"href":"https://xxxx/sec-01",
+		"dir":"sec-01",
+		"file":[]},
+	"sec-02": {
+		"href":"https://xxxx/sec-02",
+		"dir":"sec-02",
+		"file":[]},
+	"sec-03": {
+		"href":"https://xxxx/sec-03",
+		"dir":"sec-02",
+		"file":[] }
+}
+
+

@@ -1,0 +1,258 @@
+{
+  "title": "math121",
+  "href": "https://dbenedetto.people.amherst.edu/math121/",
+  "dir": "/Users/nagisa/Documents/18F Hampshire/Spring 2020/Math-121/",
+  "sections": [
+    "handouts",
+    "homeworks",
+    "quizzes"
+  ],
+  "handouts": {
+    "href": "https://dbenedetto.people.amherst.edu/math121",
+    "dir": "handouts",
+    "file": [
+      {
+        "name": "Course Information/Syllabus ",
+        "href": "math121syllabus.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Review Handout for Natural Exponential and Log ",
+        "href": "expln.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Review Handout for Derivatives and Integration ",
+        "href": "reviewderivandusub.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "\nExtra Examples of Inverse Trigonometric Integrals",
+        "href": "inversetrigintegrals.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "In Class Problem",
+        "href": "inversetrigclassproblem.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Extra Examples of Limits",
+        "href": "limitsexamples.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Extra Examples of Trigonometric Integrals",
+        "href": "trigintegrals.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Extra Examples of Trigonometric Substitution",
+        "href": "trigsub.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "ReviewPacket of\nproblems for Exam #1",
+        "href": "exam1reviewpacket.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Scanned Worked out Solutions for Review Packet\nfor Exam #1",
+        "href": "exam1reviewpacketanswers.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Overview and Tips for Exam #1",
+        "href": "reviewexam1.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Reference Sheet for Derivatives and Integrals",
+        "href": "derivativesintegrals.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Review Integration Chart for Exam#1",
+        "href": "referencesheet.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "\nExam #1, Spring 2017",
+        "href": "exam1spring17compact.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Answer Key for\nExam #1, Spring 2017",
+        "href": "exam1spring17answers.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "\nExam #1, Spring 2018",
+        "href": "exam1spring18compact.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Answer Key for\nExam #1, Spring 2018",
+        "href": "exam1spring18answers.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "\nExam #1, Fall 2019",
+        "href": "exam1fall19compact.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Answer Key for\nExam #1, Fall 2019",
+        "href": "exam1fall19answers.pdf",
+        "file_type": "pdf"
+      }
+    ]
+  },
+  "homeworks": {
+    "href": "https://dbenedetto.people.amherst.edu/math121/math121homework.html",
+    "dir": "homework",
+    "file": [
+      {
+        "name": "Homework #1",
+        "href": "homework1.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Homework #2",
+        "href": "homework2.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Homework #2 extra",
+        "href": "homework2extra.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Homework #3",
+        "href": "homework3.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Homework #4",
+        "href": "homework4.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Homework #5",
+        "href": "homework5.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Homework #6",
+        "href": "homework6.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Ectra Homework, Review for Exam #1",
+        "href": "exam1reviewhomework.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Homework #7",
+        "href": "homework7.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Homework #8",
+        "href": "homework8.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Homework #9",
+        "href": "homework9.pdf",
+        "file_type": "pdf"
+      }
+    ]
+  },
+  "quizzes": {
+    "href": "https://dbenedetto.people.amherst.edu/math121/math121quizzes.html",
+    "dir": "quizzes",
+    "file": [
+      {
+        "name": "Quiz #1",
+        "href": "quiz1.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Answer Key for Quiz #1",
+        "href": "quiz1answers.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Quiz #2",
+        "href": "quiz2.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Answer Key for Quiz #2",
+        "href": "quiz2answers.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Quiz #3",
+        "href": "quiz3.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Answer Key for Quiz #3",
+        "href": "quiz3answers.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Quiz #3B",
+        "href": "quiz3B.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Answer Key for Quiz #3B",
+        "href": "quiz3Banswers.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Quiz #4",
+        "href": "quiz4.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Answer Key for Quiz #4",
+        "href": "quiz4answers.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Quiz #5",
+        "href": "quiz5.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Answer Key for Quiz #5",
+        "href": "quiz5answers.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Quiz #6",
+        "href": "quiz6.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Answer Key for Quiz #6",
+        "href": "quiz6answers.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Quiz #7",
+        "href": "quiz7.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "name": "Answer Key for Quiz #7",
+        "href": "quiz7answers.pdf",
+        "file_type": "pdf"
+      }
+    ]
+  }
+}
